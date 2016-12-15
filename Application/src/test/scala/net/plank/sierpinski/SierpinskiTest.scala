@@ -1,4 +1,4 @@
-package net.ladstatt.sierpinski
+package net.plank.sierpinski
 
 import org.junit.Test
 import org.junit.Assert.assertTrue
